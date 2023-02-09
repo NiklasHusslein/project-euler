@@ -1,5 +1,3 @@
-package projecteuler;
-
 public class PE3_Primefactors {
 
     public static void main(String[] args) {
@@ -31,7 +29,4 @@ public class PE3_Primefactors {
 
         return largestFactor;
     }
-
-
-
 }
