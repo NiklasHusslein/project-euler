@@ -1,4 +1,3 @@
-
 public class PE1_Multiples {
 
     /**
