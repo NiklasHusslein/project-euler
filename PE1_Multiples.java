@@ -1,4 +1,3 @@
-package projecteuler;
 
 public class PE1_Multiples {
 
