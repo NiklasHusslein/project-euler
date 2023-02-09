@@ -1,5 +1,3 @@
-package projecteuler;
-
 import java.util.ArrayList;
 import java.util.List;
 
